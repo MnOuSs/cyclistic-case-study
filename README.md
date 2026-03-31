@@ -95,35 +95,35 @@ The following steps were performed:
 
 ## Key Insights
 
-1. **Casual riders take longer trips than members**
+1. **Casual riders take longer trips than members**  
    Casual users tend to use bikes for leisure and exploration.
 
-2. **Members ride more frequently on weekdays**
+2. **Members ride more frequently on weekdays**  
    This suggests usage for commuting and routine travel.
 
-3. **Casual riders are more active on weekends**
+3. **Casual riders are more active on weekends**  
    Their behavior aligns with recreational use.
 
-4. **Strong seasonal trends**
+4. **Strong seasonal trends**  
    Usage peaks in warmer months, especially among casual riders.
 
-5. **Slight differences in bike preferences**
+5. **Slight differences in bike preferences**  
    Casual riders show a higher tendency to use electric bikes.
 
 ---
 
 ## Recommendations
 
-1. **Weekend-focused promotions**
+1. **Weekend-focused promotions**  
    Offer special weekend membership deals targeting casual riders.
 
-2. **Promote commuting benefits**
+2. **Promote commuting benefits**  
    Highlight cost savings and convenience for daily riders.
 
-3. **Seasonal marketing campaigns**
+3. **Seasonal marketing campaigns**  
    Focus efforts during spring and summer when usage is highest.
 
-4. **Conversion incentives**
+4. **Conversion incentives**  
    Provide rewards or discounts for frequent casual riders transitioning to membership.
 
 ---
